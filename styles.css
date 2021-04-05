@@ -1,0 +1,102 @@
+body{
+  background-color: #222;
+}
+
+.container-fluid{
+  padding: 0;
+}
+
+.card{
+  margin-top:50px;
+}
+
+.bg-dark-custom{
+  background-color: #222;
+}
+/* .projects.card h5, p, a{
+  color:#222;
+  text-align: center;
+}
+
+.projects.card p{
+  font-size: 14px;
+} */
+
+.card h6{
+  color:darkviolet;
+  font-weight: bold;
+  text-align: left;
+  border-top: 1px solid #ccc;
+}
+
+
+.card-left{
+  margin-top: -50px;
+  padding-top: 15px;
+}
+
+.card-img-top{
+  width: 130px;
+  height: 130px;
+  margin-top:30px;
+  margin: 0 auto;
+  border-radius: 50%;
+  border: 10px double #fff;
+}
+
+.card-body{
+  color:#fff;
+  padding: 30px;
+}
+
+.card-body p{
+  text-align: center;
+}
+
+.card-body h1{
+  font-size: 22px;
+  text-align: center;
+}
+
+.tecnologies{
+  text-align: center;
+}
+
+.tecnologies-right{
+  text-align: left;
+}
+
+
+.card-body .tecnologies-right img{
+  width: 50px;
+  height: 50px;
+}
+
+
+.card-body img{
+  width: 24px;
+  height: 24px;
+}
+
+.card-body .right{
+  width: 100px;
+}
+
+.whiteColor{
+  color:#fff;
+}
+
+.align-left{
+  text-align: left !important;
+}
+
+.btn-secondary{
+  background-color: darkviolet;
+  color:#222;
+  border:#222;
+}
+
+.btn-secondary:hover{
+  background-color: darkmagenta;
+  
+}
